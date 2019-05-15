@@ -1,2 +1,0 @@
-# EjercicioProgGui
-Mostrar lista alumnos
